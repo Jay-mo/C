@@ -1,6 +1,0 @@
-"_id";"Code";"City";"State";"Latitude";"Longitude";"Timezone";"Name"
-334;"EDCA";"Anklam";"Germany";53.83277893066406;13.668610572814941;"Europe/Berlin";"Anklam Airport"
-481;"EGHQ";"Newquai";"United Kingdom";50.44060134887695;-4.995409965515137;"Europe/London";"Newquay Cornwall Airport"
-581;"EHBD";"Weert";"Netherlands";51.2552986145;5.60138988495;"Europe/Amsterdam";"Budel Airport"
-682;"ESCF";"Linkoeping";"Sweden";58.40230178833008;15.525699615478516;"Europe/Stockholm";"Malmen Air Base"
-This is me about to close the file
